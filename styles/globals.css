@@ -267,7 +267,7 @@ text-align: end;
 }
 .cart-wrapper{
   width: 100vw;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.8);
   position: fixed;
   right: 0;
   top: 0;
@@ -570,10 +570,10 @@ padding: 6px;
   min-height: 60vh;
 
 }
-.success, .cancel{
+.success, .cancel {
   width: 1000px;
-margin: auto;
-margin-top: 160px;
+  margin: auto;
+  margin-top: 160px;
   background-color: #dcdcdc;
   padding: 50px;
   border-radius: 15px;
